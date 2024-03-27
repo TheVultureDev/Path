@@ -1,0 +1,82 @@
+#zion {
+  width: 600px;
+  height: 400px;
+  background-color: blueviolet;
+  border-radius: 12px;
+  float: right;
+  border-style: dotted dashed solid double;
+  border-width: 3px;
+  border-color: red;
+  margin-left: 20px;
+}
+
+p {
+  display: inline;
+  margin: 180px;
+  margin-top: 140;
+  margin-bottom: auto;
+  margin-left: 140px;
+  font-size: 25px;
+  color: aquamarine;
+  position: absolute;
+  flex: none;
+}
+#ion {
+  width: 600px;
+  height: 400px;
+  background-color: blueviolet;
+  border: radius 33px;
+  border-style: double;
+  margin-left: 20px;
+}
+
+p {
+  display: inline;
+  margin: 180px;
+  margin-top: 140;
+  margin-bottom: auto;
+  margin-left: 140px;
+  font-size: 25px;
+  color: aquamarine;
+  position: absolute;
+  flex: none;
+}
+#ton {
+  width: 600px;
+  height: 400px;
+  background-color: blueviolet;
+  border: radius 33px;
+  border-style: double;
+  margin-left: 20px;
+}
+
+p {
+  display: inline;
+  margin: 180px;
+  margin-top: 140;
+  margin-bottom: auto;
+  margin-left: 140px;
+  font-size: 25px;
+  color: aquamarine;
+  position: absolute;
+  flex: none;
+}
+
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
